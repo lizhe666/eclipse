@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="iXinfeng"
+  id="myeclipse.1452496615420"
+  context-root="/iXinfeng"
+  j2ee-spec="5.0"
+  archive="iXinfeng.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
